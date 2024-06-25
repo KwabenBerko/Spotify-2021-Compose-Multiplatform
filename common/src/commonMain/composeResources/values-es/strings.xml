@@ -1,0 +1,45 @@
+<resources>
+    <string name="start_spotify_title">Millones de canciones.\nGratis en Spotify.</string>
+    <string name="start_sign_up_free">Regístrate gratis</string>
+    <string name="start_continue_with_google">Continuar con Google</string>
+    <string name="start_continue_with_facebook">Continuar con Facebook</string>
+    <string name="start_continue_with_apple">Continuar con Apple</string>
+    <string name="login">Acceso</string>
+
+    <string name="signup_create_account">Crear una cuenta</string>
+    <string name="signup_email_question">Cuál es tu correo electrónico?</string>
+    <string name="signup_email_confirmation_required">Deberá confirmar este correo electrónico más tarde.</string>
+    <string name="signup_create_password">Crear una contraseña</string>
+    <string name="signup_password_required_length">Use al menos 8 caracteres.</string>
+    <string name="signup_gender_question">Cuál es tu género?</string>
+    <string name="signup_name_question">Cómo te llamas?</string>
+    <string name="signup_name_profile_heads_up">Esto aparece en tu perfil de Spotify.</string>
+    <string name="signup_terms_of_use_info">Al tocar "Crear cuenta", aceptas los Términos de uso de Spotify.</string>
+    <string name="signup_privacy_policy_info">Para obtener más información sobre cómo Spotify recopila, usa, comparte y protege sus datos personales, consulte la Política de privacidad de Spotify.</string>
+    <string name="signup_privacy_policy">Política de privacidad</string>
+    <string name="signup_terms_of_use">Condiciones de uso</string>
+    <string name="signup_send_news_and_offers">Por favor envíame noticias y ofertas de Spotify.</string>
+    <string name="signup_share_registration_data">Compartir mis datos de registro con los proveedores de contenido de Spotify con fines de marketing.</string>
+    <string name="signup_next">Próximo</string>
+    <string name="signup_create_an_account">Crear una cuenta</string>
+    <string name="signup_choose_artists">Elige 3 o más artistas que te gusten.</string>
+    <string name="signup_choose_podcasts">Ahora elige algunos podcasts.</string>
+    <string name="done">Hecho</string>
+
+    <string name="home">Hogar</string>
+    <string name="search">Buscar</string>
+    <string name="your_library">Tu biblioteca</string>
+    <string name="recently_played">Recientemente jugado</string>
+    <string name="main_year_in_review_review">Tu 2021 en repaso</string>
+    <string name="main_top_songs">Tus mejores canciones 2021</string>
+    <string name="main_top_artists">Tus artistas reveladas</string>
+    <string name="main_editors_picks">Destacados</string>
+
+    <string name="recent_searches">Búsquedas recientes</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="search_artists_songs_podcasts">Artistas, canciones o podcasts</string>
+    <string name="search_your_top_genres">Tus géneros principales</string>
+    <string name="search_popular_podcast_categories">Categorías de podcasts populares</string>
+    <string name="browse_all">Explorar todo</string>
+</resources>

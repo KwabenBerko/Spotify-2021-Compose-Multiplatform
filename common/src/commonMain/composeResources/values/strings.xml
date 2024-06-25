@@ -1,0 +1,45 @@
+<resources>
+    <string name="start_spotify_title">Millions of Songs.\nFree on Spotify.</string>
+    <string name="start_sign_up_free">Sign up free</string>
+    <string name="start_continue_with_google">Continue with Google</string>
+    <string name="start_continue_with_facebook">Continue with Facebook</string>
+    <string name="start_continue_with_apple">Continue with Apple</string>
+    <string name="login">Log in</string>
+
+    <string name="signup_create_account">Create account</string>
+    <string name="signup_email_question">What\u0027s your email?</string>
+    <string name="signup_email_confirmation_required">You\u0027ll need to confirm this email later.</string>
+    <string name="signup_create_password">Create a password</string>
+    <string name="signup_password_required_length">Use at least 8 characters.</string>
+    <string name="signup_gender_question">What\u0027s your gender?</string>
+    <string name="signup_name_question">What\u0027s your name?</string>
+    <string name="signup_name_profile_heads_up">This appears on your spotify profile</string>
+    <string name="signup_terms_of_use_info">By tapping on "Create Account", you agree to the spotify Terms of Use.</string>
+    <string name="signup_privacy_policy_info">To learn more about how Spotify collect, uses, shares and protects your personal data, Please see the Spotify Privacy Policy.</string>
+    <string name="signup_privacy_policy">Privacy Policy</string>
+    <string name="signup_terms_of_use">Terms of Use</string>
+    <string name="signup_send_news_and_offers">Please send me news and offers from Spotify.</string>
+    <string name="signup_share_registration_data">Share my registration data with Spotify’s content providers for marketing purposes.</string>
+    <string name="signup_next">Next</string>
+    <string name="signup_create_an_account">Create account</string>
+    <string name="signup_choose_artists">Choose 3 or more artists you like.</string>
+    <string name="signup_choose_podcasts">Now choose some podcasts.</string>
+    <string name="done">Done</string>
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="your_library">Your Library</string>
+    <string name="recently_played">Recently played</string>
+    <string name="main_year_in_review_review">Your 2021 in review</string>
+    <string name="main_top_songs">Your Top Songs 2021</string>
+    <string name="main_top_artists">Your Artists Revealed</string>
+    <string name="main_editors_picks">Editor\u0027s Picks</string>
+
+    <string name="recent_searches">Recent searches</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="search_artists_songs_podcasts">Artists, songs or podcasts</string>
+    <string name="search_your_top_genres">Your top genres</string>
+    <string name="search_popular_podcast_categories">Popular podcast categories</string>
+    <string name="browse_all">Browse all</string>
+</resources>
