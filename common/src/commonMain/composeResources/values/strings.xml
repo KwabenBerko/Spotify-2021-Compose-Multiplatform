@@ -7,12 +7,12 @@
     <string name="login">Log in</string>
 
     <string name="signup_create_account">Create account</string>
-    <string name="signup_email_question">What\u0027s your email?</string>
-    <string name="signup_email_confirmation_required">You\u0027ll need to confirm this email later.</string>
+    <string name="signup_email_question">What's your email?</string>
+    <string name="signup_email_confirmation_required">You'll need to confirm this email later.</string>
     <string name="signup_create_password">Create a password</string>
     <string name="signup_password_required_length">Use at least 8 characters.</string>
-    <string name="signup_gender_question">What\u0027s your gender?</string>
-    <string name="signup_name_question">What\u0027s your name?</string>
+    <string name="signup_gender_question">What's your gender?</string>
+    <string name="signup_name_question">What's your name?</string>
     <string name="signup_name_profile_heads_up">This appears on your spotify profile</string>
     <string name="signup_terms_of_use_info">By tapping on "Create Account", you agree to the spotify Terms of Use.</string>
     <string name="signup_privacy_policy_info">To learn more about how Spotify collect, uses, shares and protects your personal data, Please see the Spotify Privacy Policy.</string>
@@ -33,7 +33,7 @@
     <string name="main_year_in_review_review">Your 2021 in review</string>
     <string name="main_top_songs">Your Top Songs 2021</string>
     <string name="main_top_artists">Your Artists Revealed</string>
-    <string name="main_editors_picks">Editor\u0027s Picks</string>
+    <string name="main_editors_picks">Editor's Picks</string>
 
     <string name="recent_searches">Recent searches</string>
     <string name="cancel">Cancel</string>

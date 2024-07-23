@@ -46,9 +46,6 @@ kotlin {
 android {
     namespace = "com.kwabenaberko.spotifyui"
     compileSdk = 34
-    sourceSets["main"].manifest.srcFile("src/androidMain/AndroidManifest.xml")
-    sourceSets["main"].res.srcDirs("src/commonMain/composeResources")
-    sourceSets["main"].resources.srcDirs("src/commonMain/composeResources")
 
     defaultConfig {
         minSdk = 28
